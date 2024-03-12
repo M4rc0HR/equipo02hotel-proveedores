@@ -5,7 +5,7 @@
  *
  * @file: ProveedorServiceImp.java
  * @author: (c)2024 MARCO
- * @created: 9/3/2024 14:04
+ * @created: 09/3/2024 13:04
  */
 
 package com.equipo02hotelproveedores;
